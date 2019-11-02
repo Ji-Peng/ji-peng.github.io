@@ -1,3 +1,10 @@
+<!--
+ * @Description: 
+ * @version: v0.1
+ * @Author: Ji-Peng
+ * @Date: 2019-11-01 15:46:44
+ * @LastEditTime: 2019-11-02 09:47:43
+ -->
 ---
 title: Intro
 ---
@@ -23,4 +30,4 @@ title: Intro
 
 View my [Github](github.com/Ji-Peng) for more information.
 
-In college, I also wrote a nunmber of operating system related blogs, so you can visit my CSDN [blog](https://blog.csdn.net/qq_36321889).
+In college, I also wrote a number of operating system related blogs, so you can visit my CSDN [blog](https://blog.csdn.net/qq_36321889).
