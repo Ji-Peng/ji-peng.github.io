@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: Introduction
 ---
 ### My Degrees
 * 2016-2010 Bachelor, Software Engineering, Nanjing University of Aeronautics and Astronautics
