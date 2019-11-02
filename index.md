@@ -1,10 +1,3 @@
-<!--
- * @Description: 
- * @version: v0.1
- * @Author: Ji-Peng
- * @Date: 2019-11-01 15:46:44
- * @LastEditTime: 2019-11-02 09:47:43
- -->
 ---
 title: Intro
 ---
