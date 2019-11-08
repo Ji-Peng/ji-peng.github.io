@@ -21,6 +21,6 @@ title: Introduction
 * jipengnuaa@gmail.com
 * Never mind the terrible name.
 
-View my [Github](www.github.com/Ji-Peng) for more information.
+View my Github(https://www.github.com/Ji-Peng) for more information.
 
 In college, I also wrote a number of operating system related blogs, so you can visit my CSDN [blog](https://blog.csdn.net/qq_36321889).
