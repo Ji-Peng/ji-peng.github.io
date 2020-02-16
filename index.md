@@ -17,9 +17,7 @@ title: Introduction
     * CUDA Implementation and Optimization
 
 ### My Email
-* zjp134714@nuaa.edu.cn
-* jipengnuaa@gmail.com
-* Never mind the terrible name.
+* jp-zhang@outlook.com
 
 View my Github(https://www.github.com/Ji-Peng) for more information.
 
